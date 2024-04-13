@@ -1,7 +1,7 @@
 # Personal Website
-<a href=""> <img src="/assets/img/programmer.png"> </a>
+<a href="https://main--sarthakvaidya.netlify.app/"> <img src="/assets/img/programmer.png"> </a>
 
-My personal <a href=""> portfolio website </a>. It is compatible with mobile devices, developed with Mobile First methodology, then desktop. This responsive personal portfolio website was made using HTML, CSS, and JavaScript. It contains a header, footer, and a section for homepage, about, skills, qualifications, my projects and contacts. 
+My personal <a href="https://main--sarthakvaidya.netlify.app/"> portfolio website </a>. It is compatible with mobile devices, developed with Mobile First methodology, then desktop. This responsive personal portfolio website was made using HTML, CSS, and JavaScript. It contains a header, footer, and a section for homepage, about, skills, qualifications, my projects and contacts. 
 
 <hr>
 
@@ -31,15 +31,15 @@ My personal <a href=""> portfolio website </a>. It is compatible with mobile dev
 
 #### Light and Dark Theme
 <div align="center">
-<a href=""> <img src="/assets/img/Portfolio_1.jpg" width="500" height="230"> </a>
-<a href=""> <img src="/assets/img/Portfolio_2.jpg" width="500" height="230"></a>
+<a href="https://main--sarthakvaidya.netlify.app/"> <img src="/assets/img/Portfolio_1.jpg" width="500" height="230"> </a>
+<a href="https://main--sarthakvaidya.netlify.app/"> <img src="/assets/img/Portfolio_2.jpg" width="500" height="230"></a>
 </div>
 User has preference and can choose between the light or the dark theme. Dark theme comes with starry night animations, styled using css.
 <br>
 <a href="#top" class="btn">Back to table of contents</a><hr>
 
 #### About me
-<a href=""><img src="/assets/img/Portfolio_3.jpg"></a>
+<a href="https://main--sarthakvaidya.netlify.app/"><img src="/assets/img/Portfolio_3.jpg"></a>
 The description includes information about the my education, work history, achievements, and areas of expertise.
 
 <br>
@@ -47,8 +47,8 @@ The description includes information about the my education, work history, achie
 
 #### Skills
 <div align="center">
-<a href=""> <img src="/assets/img/Portfolio_4.jpg" width="500" height="200"> </a>
-<a href=""> <img src="/assets/img/Portfolio_5.jpg" width="500" height="290"></a>
+<a href="https://main--sarthakvaidya.netlify.app/"> <img src="/assets/img/Portfolio_4.jpg" width="500" height="200"> </a>
+<a href="https://main--sarthakvaidya.netlify.app/"> <img src="/assets/img/Portfolio_5.jpg" width="500" height="290"></a>
 </div>
 The skills section demonstrates how familiar I am with different technologies, skills, and languages, and the roles in which I used those skills. 
 
@@ -57,8 +57,8 @@ The skills section demonstrates how familiar I am with different technologies, s
 
 #### Qualifications
 <div align="center">
-<a href=""> <img src="/assets/img/Portfolio_6.jpg" width="500" height="230"> </a>
-<a href=""> <img src="/assets/img/Portfolio_7.jpg" width="500" height="230"></a>
+<a href="https://main--sarthakvaidya.netlify.app/"> <img src="/assets/img/Portfolio_6.jpg" width="500" height="230"> </a>
+<a href="https://main--sarthakvaidya.netlify.app/"> <img src="/assets/img/Portfolio_7.jpg" width="500" height="230"></a>
 </div>
 The qualifications show both my work history, as well as my education history. This includes the relative certificates and roles that I did which are relevant to computer engineering.
 
@@ -67,7 +67,7 @@ The qualifications show both my work history, as well as my education history. T
 
 #### My Projects
 <div align="center">
-<a href=""><img src="/assets/img/Portfolio_8.jpg" width="500" height="500"></a>
+<a href="https://main--sarthakvaidya.netlify.app/"><img src="/assets/img/Portfolio_8.jpg" width="500" height="500"></a>
 </div>
 This demonstrates my strongest projects, and the technologies and languages I used to create them. 
 
@@ -76,7 +76,7 @@ This demonstrates my strongest projects, and the technologies and languages I us
 
 #### Contact Section
 <div align="center">
-<a href=""> <img src="/assets/img/Portfolio_9.jpg" width="500" height="100"> </a>
+<a href="https://main--sarthakvaidya.netlify.app/"> <img src="/assets/img/Portfolio_9.jpg" width="500" height="100"> </a>
 </div>
 
 This is a section of links through which I can be contacted. 
