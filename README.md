@@ -1,6 +1,5 @@
 # Personal Website
-
-<a href=""> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png"> </a>
+<a href=""> <img src="/assets/img/programmer.png"> </a>
 
 My personal <a href=""> portfolio website </a>. It is compatible with mobile devices, developed with Mobile First methodology, then desktop. This responsive personal portfolio website was made using HTML, CSS, and JavaScript. It contains a header, footer, and a section for homepage, about, skills, qualifications, my projects and contacts. 
 
